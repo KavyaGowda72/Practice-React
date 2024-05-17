@@ -1,0 +1,66 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    max-width:100%;
+    height: auto;
+    background-color: rgb(233, 225, 216);
+}
+.nav-items{
+    display: flex;
+   justify-content: space-evenly;
+   padding: 15px;
+   margin-left: 80px;
+   list-style-type: none;
+}
+
+.footer{ */
+
+   .counter-container{
+    text-align: center;
+   }
+
+   .value-container{
+    font-size: 4em;
+    font-family: Arial,sans-serif;
+    margin-top: 0;
+   }
+
+   .button-container{
+    height: 50px;
+    width: 150px;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0px 10px;
+    background-color: rgb(243, 201, 145);
+    border: none;
+    border-radius: 5px;
+
+   }
+
+
+   /* Color-Picker App */
+
+   .color-picker-container{
+    height: 400px;
+    max-width: 60%;
+    background-color: rgb(244, 231, 216);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+   .color-display{
+    height: 100px;
+    width: auto;
+    border: 1px solid black;
+    text-align: center;}
+  
+   
+    
+ 
+    
+
